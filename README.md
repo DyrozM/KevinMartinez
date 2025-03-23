@@ -28,7 +28,7 @@ Soy un ingeniero en software apasionado por el desarrollo frontend y backend. Mi
 ---
 
 ## 📫 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](![Banner](https://tu-imagen.com/banner.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](![Banner]([https://tu-imagen.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQHj2q8rDOBu_Q/profile-displaybackgroundimage-shrink_350_1400/B4DZVPLqK8G8AY-/0/1740790212014?e=1748476800&v=beta&t=SDkgC6iu45IOrGe2w6AfL0PGFBO4axtt6i3FwiZrsLk))
 
 # 💻 Kevin Martinez  
 **Software Engineer | Full Stack Developer**
