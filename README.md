@@ -1,4 +1,4 @@
-![Banner](URL_DE_TU_BANNER)
+![Banner](https://media.licdn.com/dms/image/v2/D4D12AQH8wFBWTJpYRQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688545854206?e=1748476800&v=beta&t=UMDUFouS307FZ2oIfZsMMVqhSAWrIJ6pqacPJef5h_g)
 
 # ¡Hola! Soy Kevin Martínez 👋
 
