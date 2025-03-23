@@ -13,32 +13,19 @@
 ## 🚀 Mi estado en GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinmartinez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 🔧 Herramientas y Tecnologías:
-### .NET
+## 🔧 Tecnologías y Herramientas:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=asp.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-
-### JavaScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-
-### PHP
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
-
-### React
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-### Flutter
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### SQL Server
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### HTML & CSS
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
