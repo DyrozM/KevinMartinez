@@ -44,7 +44,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## 📞 Contacto:
-- 📧 Correo: [kevin.martinez@email.com](mailto:kevin.martinez@email.com)
-- 🌐 LinkedIn: [@kevinmartinez](https://www.linkedin.com/in/kevinmartinez/)
-- 💻 GitHub: [@kevinmartinez](https://github.com/kevinmartinez)
+- 📧 Correo: [kevinmartinez084@gmail.com](mailto:kevin.martinez@email.com)
+- 🌐 LinkedIn: [@kevinmartinez](https://www.linkedin.com/in/kevin-martinez-020313199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
