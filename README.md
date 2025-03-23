@@ -32,33 +32,20 @@
 
 ## 💻 Proyectos:
 
-### **[Proyecto 1: Mi Aplicación Web](https://github.com/kevinmartinez/proyecto1)**
-![Proyecto 1](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto1)
-- **Descripción**: Una aplicación web moderna diseñada para gestionar tareas de forma eficiente. Utiliza React para el frontend y Node.js en el backend.
-- **Tecnologías**: React, Node.js, Express, MongoDB.
+| Proyecto 1: Mi Aplicación Web | Proyecto 2: Sistema de Gestión de Inventarios |
+| :----------------------------: | :-------------------------------------------: |
+| ![Proyecto 1](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto1)  | ![Proyecto 2](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto2) |
+| [Ver Proyecto](https://github.com/kevinmartinez/proyecto1) | [Ver Proyecto](https://github.com/kevinmartinez/proyecto2) |
+| **Descripción**: Una aplicación web moderna diseñada para gestionar tareas de forma eficiente. Utiliza React para el frontend y Node.js en el backend. | **Descripción**: Un sistema para gestionar inventarios de productos en tiempo real, utilizando ASP.NET Core y SQL Server. |
+| **Tecnologías**: React, Node.js, Express, MongoDB | **Tecnologías**: ASP.NET Core, SQL Server, Bootstrap |
 
----
+| Proyecto 3: Aplicación Móvil de Clima | Proyecto 4: Blog de Noticias |
+| :-----------------------------------: | :---------------------------: |
+| ![Proyecto 3](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto3)  | ![Proyecto 4](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto4) |
+| [Ver Proyecto](https://github.com/kevinmartinez/proyecto3) | [Ver Proyecto](https://github.com/kevinmartinez/proyecto4) |
+| **Descripción**: Aplicación móvil desarrollada con Flutter para mostrar pronósticos del clima de distintas ciudades. | **Descripción**: Un blog dinámico donde los usuarios pueden publicar noticias, comentarios y darle "me gusta" a las publicaciones. |
+| **Tecnologías**: Flutter, Dart, API de Clima | **Tecnologías**: PHP, MySQL, Bootstrap |
 
-### **[Proyecto 2: Sistema de Gestión de Inventarios](https://github.com/kevinmartinez/proyecto2)**
-![Proyecto 2](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto2)
-- **Descripción**: Un sistema para gestionar inventarios de productos en tiempo real, utilizando ASP.NET Core y SQL Server.
-- **Tecnologías**: ASP.NET Core, SQL Server, Bootstrap.
-
----
-
-### **[Proyecto 3: Aplicación Móvil de Clima](https://github.com/kevinmartinez/proyecto3)**
-![Proyecto 3](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto3)
-- **Descripción**: Aplicación móvil desarrollada con Flutter para mostrar pronósticos del clima de distintas ciudades.
-- **Tecnologías**: Flutter, Dart, API de Clima.
-
----
-
-### **[Proyecto 4: Blog de Noticias](https://github.com/kevinmartinez/proyecto4)**
-![Proyecto 4](https://via.placeholder.com/300x150?text=Imagen+del+Proyecto4)
-- **Descripción**: Un blog dinámico donde los usuarios pueden publicar noticias, comentarios y darle "me gusta" a las publicaciones.
-- **Tecnologías**: PHP, MySQL, Bootstrap.
-
----
 
 ## 📞 Contacto:
 - 📧 Correo: [kevinmartinez084@gmail.com](mailto:kevin.martinez@mail.com)
